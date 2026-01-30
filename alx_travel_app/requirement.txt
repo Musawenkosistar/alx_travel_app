@@ -1,0 +1,7 @@
+Django>=3.2
+djangorestframework
+drf-yasg
+django-cors-headers
+mysqlclient
+celery
+python-dotenv
